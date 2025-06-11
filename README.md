@@ -5,8 +5,8 @@ My modified version of Monokai for personal preferences
 ## Setup
 First of all, clone this repository and then place Jenokai.vim into your colors directory.
 Or rather, use this git command:
-```git
-git clone https://github.com/acerpixels/Jenokai.git ~/.vim/colors/Jenokai.vim
+```bash
+curl -fLo ~/.vim/colors/Jenokai.vim --create-dirs https://raw.githubusercontent.com/acerpixels/Jenokai/master/Jenokai.vim
 ```
 
 ## Adding the Colorscheme Into Your `.vimrc`
