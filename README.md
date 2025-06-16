@@ -1,6 +1,6 @@
 # Jenokai
 My modified version of Monokai for personal preferences
-![image](https://github.com/user-attachments/assets/792d48f6-c9b2-4e01-a20b-7becfaf4b779)
+![image](https://github.com/user-attachments/assets/0020463b-bf3a-4713-9787-03d7d93473b7)
 
 ## Setup
 First of all, clone this repository and then place Jenokai.vim into your colors directory.
