@@ -28,11 +28,11 @@ hi Search ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=un
 hi Directory ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 hi Folded ctermfg=242 ctermbg=235 cterm=NONE guifg=#75715e guibg=#272822 gui=NONE
 hi TabLineFill term=bold cterm=bold ctermbg=0
-hi Normal ctermfg=231 ctermbg=234 cterm=NONE guifg=#f8f8f2 guibg=NONE gui=NONE
+hi Normal ctermfg=231 ctermbg=234 cterm=NONE guifg=#f8f8f0 guibg=NONE gui=NONE
 "hi Normal ctermfg=231 ctermbg=234 cterm=NONE guifg=#cecfba guibg=#0A0A0A gui=NONE
 hi Boolean ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 hi Character ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
-hi Comment ctermfg=242 ctermbg=NONE cterm=NONE guifg=#75715e guibg=NONE gui=NONE
+hi Comment ctermfg=242 ctermbg=NONE cterm=NONE guifg=#807255 guibg=NONE gui=NONE
 hi Conditional ctermfg=197 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=NONE gui=NONE
 hi Constant ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi Define ctermfg=197 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=NONE gui=NONE
